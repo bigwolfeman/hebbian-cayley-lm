@@ -98,4 +98,4 @@ Data: WikiText-103, tokenized with StarCoder2, sequences truncated to 200 tokens
 
 ## wandb
 
-
+![wandb](https://github.com/bigwolfeman/hebbian-cayley-lm/blob/main/wandb.jpg)
